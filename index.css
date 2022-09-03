@@ -1,0 +1,30 @@
+.originaldiv{
+    background-color: white;
+    border-radius: 20px;
+    width: 20%;
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 30%;
+    margin-bottom: 20%;
+    margin-right: 20%;
+}   
+img{
+    border-radius: 20px;
+}
+
+.firstdiv{
+    font-family: Arial;
+    font-size: 60%;
+    color: navy;
+}
+.seconddiv{
+    /* line-height: normal; */
+    font-family: Arial;
+    color: slategray;
+    padding-bottom: 10%;
+    font-size: 90%;
+}
+.imagediv{
+    padding-top: 7%;
+    padding-bottom: 1%;
+}
